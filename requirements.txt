@@ -1,2 +1,6 @@
-openai==0.28.0
+openai
+langchain
+langchain-community
 python-dotenv
+streamlit
+langchain_openai

@@ -4,3 +4,5 @@ venv/
 __pycache__/
 *.pyc
 agents/.DS_Store
+agents/travel_agent/memory/id_map.pkl
+agents/travel_agent/memory/memory_db.faiss
